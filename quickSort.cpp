@@ -8,8 +8,10 @@ After 1st step, Pivot element is in the correct place, with all elements lesser 
 This is done in linear time. 
 
 Time complexities:  (depends on pivot element)
+   worst case: O(n²)
+   average case: O(n logn)
+   best case: O(n logn)   
    
-
 */
 
 #include <iostream>
