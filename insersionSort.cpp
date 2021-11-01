@@ -33,7 +33,7 @@ int main(){
     }
 
     //insertion-sorting
-    for(int i=1;i<n;i++){                                  //[10,33,23,4,1]
+    for(int i=1;i<n;i++){
         int current = arr[i];
         int j=i-1;
         while(j>=0 && arr[j]>current){
