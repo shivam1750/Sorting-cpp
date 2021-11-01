@@ -7,9 +7,9 @@ Increase the size of sorted array by 1 and decrease size of unsorted array by 1.
 Continue till the entire array is sorted.
 
 Time complexities: 
-    worst case: O()
-    average case: O()
-    best case: O()   
+    worst case: O(n²)
+    average case: O(n²)
+    best case: O(n²)   
 
 
 */
