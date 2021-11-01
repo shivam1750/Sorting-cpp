@@ -63,7 +63,7 @@ int main(){int n;
     cout<<"The given array is: ";
     printArray(arr,n);
 
-    //calling the merge-sort function
+    //calling the quick-sort function
     int low=0, high=n-1;
     quickSort(arr,low,high);
 
