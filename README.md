@@ -1,1 +1,1 @@
-# Sorting algorithms written in c++ language by Aditya Bijapurkar 
+Sorting algorithms written in c++ language by Aditya Bijapurkar 
