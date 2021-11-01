@@ -4,11 +4,11 @@ A Sorting Algorithm is used to rearrange a given array or list elements accordin
 
 Sorting Technique    ||     Worst Case Time Complexity            
 
-1) Bubble Sort                O(n²)
-2) Merge Sort                 O(n logn)
-3) Quick Sort                 O(n²)
-4) Shell Sort                 O(n²)
-5) Selection Sort             O(n²)
-6) Insertion Sort             O(n²)
-7) Bucket Sort                O(n²)       O(n+k)
-8) Radix Sort                 O(n*k/d)    O(d*(n+b))
+1) Bubble Sort       ||         O(n²)
+2) Merge Sort        ||         O(n logn)
+3) Quick Sort        ||         O(n²)
+4) Shell Sort         ||        O(n²)
+5) Selection Sort     ||        O(n²)
+6) Insertion Sort      ||       O(n²)
+7) Bucket Sort         ||       O(n²)       O(n+k)
+8) Radix Sort          ||       O(n*k/d)    O(d*(n+b))
