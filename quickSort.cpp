@@ -89,9 +89,6 @@ int main(){int n;
 */
 
 
-
-
-
 /*
 code written by Aditya Bijapurkar
 */
