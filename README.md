@@ -10,5 +10,5 @@ Sorting Technique    ||     Worst Case Time Complexity
 4) Shell Sort         ||        O(n²)
 5) Selection Sort     ||        O(n²)
 6) Insertion Sort      ||       O(n²)
-7) Bucket Sort         ||       O(n²)       O(n+k)
-8) Radix Sort          ||       O(n*k/d)    O(d*(n+b))
+7) Bucket Sort         ||       O(n²)
+8) Radix Sort          ||       O(n k/d)
