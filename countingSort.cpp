@@ -6,9 +6,7 @@ It works by counting the number of objects having distinct key values (kind of h
 Then doing some arithmetic to calculate the position of each object in the output sequence.
 
 Time complexities:  
-    worst case: O()  
-    average case: O()       
-    best case: O()
+    O(n+k)  
 
 */
 
