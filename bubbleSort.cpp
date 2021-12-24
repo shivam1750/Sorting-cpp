@@ -3,7 +3,7 @@
 BUBBLE SORT!
 Bubble sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 After every pass (transversing) the array is passed from next element, continued till 2nd last element in array.
-Maximum number of passes = (n-1).
+Maximum number of passes = (n-1)
 
 Time complexities:
 
